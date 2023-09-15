@@ -1,0 +1,66 @@
+[
+    {
+      "img": "https://example.com/img1.jpg",
+      "name": "Product 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 19.99,
+      "credit": 5
+    },
+    {
+      "img": "https://example.com/img2.jpg",
+      "name": "Product 2",
+      "description": "Aenean euismod tincidunt elit, sed tincidunt mi facilisis ac.",
+      "price": 29.99,
+      "credit": 4.5
+    },
+    {
+      "img": "https://example.com/img3.jpg",
+      "name": "Product 3",
+      "description": "Vestibulum vestibulum ligula ut libero laoreet, quis malesuada justo fringilla.",
+      "price": 39.99,
+      "credit": 4
+    },
+    {
+      "img": "https://example.com/img4.jpg",
+      "name": "Product 4",
+      "description": "Pellentesque quis purus vel augue dignissim euismod ut at ante.",
+      "price": 49.99,
+      "credit": 4.5
+    },
+    {
+      "img": "https://example.com/img5.jpg",
+      "name": "Product 5",
+      "description": "Sed eget nisl consectetur, hendrerit risus eu, efficitur dui.",
+      "price": 59.99,
+      "credit": 3.5
+    },
+    {
+      "img": "https://example.com/img6.jpg",
+      "name": "Product 6",
+      "description": "Vivamus a orci vel dui laoreet efficitur in id sapien.",
+      "price": 69.99,
+      "credit": 5
+    },
+    {
+      "img": "https://example.com/img7.jpg",
+      "name": "Product 7",
+      "description": "Nunc vitae quam in odio tristique scelerisque vel sit amet elit.",
+      "price": 79.99,
+      "credit": 4
+    },
+    {
+      "img": "https://example.com/img8.jpg",
+      "name": "Product 8",
+      "description": "Fusce id nulla quis est sollicitudin volutpat eu in sapien.",
+      "price": 89.99,
+      "credit": 4.5
+    },
+    {
+      "img": "https://example.com/img9.jpg",
+      "name": "Product 9",
+      "description": "Nullam in felis eu justo lacinia hendrerit a sit amet nunc.",
+      "price": 99.99,
+      "credit": 3
+    }
+  ]
+  
