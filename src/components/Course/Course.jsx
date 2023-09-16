@@ -19,7 +19,7 @@ const Course = ({ course, handleAddCourse }) => {
                     <p className='text-gray-600'>Credit: {credit}hr</p>
                 </div>
             </div>
-            <button onClick={() => handleAddCourse(title)} className='bg-[#2F80ED] hover:bg-[#22508d] w-full text-white font-semibold py-2 rounded-lg'>Select</button>
+            <button onClick={() => handleAddCourse(course)} className='bg-[#2F80ED] hover:bg-[#22508d] w-full text-white font-semibold py-2 rounded-lg'>Select</button>
         </div>
     );
 };
