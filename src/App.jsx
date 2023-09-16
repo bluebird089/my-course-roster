@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Header></Header>
-      <div className='flex justify-between container mx-auto'>
+      <div className='flex justify-between container mx-auto gap-3'>
         <Courses></Courses>
         <CourseCart></CourseCart>
       </div>
