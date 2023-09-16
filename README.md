@@ -1,8 +1,6 @@
-# React + Vite
+1. 3 Features of my Project are -
+  i. The JSON fake data has been created by ChatGPT.
+  ii. We can't add more than one item in the cart, that hasn't been taught to us.
+  iii. A new segment called 'Toast' has been added in this project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. I created 4 Use States to manage remaining credit hour, course name, total credit hour and total price in this project. Although setting the value was a bit tricky because of the if else statements.
