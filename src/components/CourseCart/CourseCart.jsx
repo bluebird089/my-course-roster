@@ -1,7 +1,6 @@
 import PropTypes from 'prop-types';
 
 const CourseCart = ({ addedCourses, remaining, totalCredit, price }) => {
-    console.log(addedCourses, remaining, totalCredit, price)
     return (
         <div className="w-1/4 bg-white h-min p-5 rounded-2xl space-y-3">
             <h3 className="text-center text-lg font-semibold text-[#2F80ED]">Credit Hour Remaining: {remaining}</h3>
