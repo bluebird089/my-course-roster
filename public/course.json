@@ -19,7 +19,7 @@
       "id": 3,
       "cover": "https://i.ibb.co/HqYs281/Rectangle-2-4.png",
       "title": "Introduction to C++ for DSA",
-      "description": "A C++ program is a software application written in the C++ programming language, allowing object-oriented programming and featuring extensive libraries for versatile development tasks.",
+      "description": "C++ is a software application written in the C++ Language, allowing object-oriented programming and featuring extensive libraries for versatile development tasks.",
       "price": 10000,
       "credit": 10
     },
@@ -43,7 +43,7 @@
       "id": 6,
       "cover": "https://i.ibb.co/JybvBk8/Rectangle-2-5.png",
       "title": "Software Engineering",
-      "description": "Software engineering is the systematic process of designing, developing, testing, and maintaining software, focusing on quality, reliability, and efficient project management for successful applications.",
+      "description": "Software engineering is the systematic process of designing, developing, testing, and maintaining software, focusing on reliability and efficient project management for successful applications.",
       "price": 23000,
       "credit": 2
     },
@@ -51,7 +51,7 @@
       "id": 7,
       "cover": "https://i.ibb.co/WskDkd2/Rectangle-3-1.png",
       "title": "AWS, Cloud Computing",
-      "description": "AWS (Amazon Web Services) is a leading cloud computing platform that provides on-demand computing resources and services, enabling scalable and cost-effective solutions for businesses and developers.",
+      "description": "AWS is a leading cloud computing platform that provides on-demand computing resources, enabling scalable and cost-effective solutions for businesses and developers.",
       "price": 35000,
       "credit": 5
     },
