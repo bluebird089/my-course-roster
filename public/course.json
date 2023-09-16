@@ -1,66 +1,74 @@
 [
     {
-      "img": "https://example.com/img1.jpg",
-      "name": "Product 1",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "price": 19.99,
+      "id": 1,
+      "cover": "https://i.ibb.co/Ybt973j/Rectangle-2-2.png",
+      "title": "Introduction to C Programming",
+      "description": "C program is a set of instructions written in the C programming language, used for software development, ranging from simple calculations to complex applications.",
+      "price": 15000,
+      "credit": 1
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/RCNgX4J/Rectangle-2-3.png",
+      "title": "Introduction to Algorithms",
+      "description": "An algorithms program is a set of logical instructions designed to solve specific computational problems efficiently, fundamental in computer science and software development.",
+      "price": 25000,
+      "credit": 2
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/HqYs281/Rectangle-2-4.png",
+      "title": "Introduction to C++ for DSA",
+      "description": "A C++ program is a software application written in the C++ programming language, allowing object-oriented programming and featuring extensive libraries for versatile development tasks.",
+      "price": 10000,
+      "credit": 10
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/zP5fYMr/Rectangle-3.png",
+      "title": "Basic Data Structures",
+      "description": "Basic data structures are fundamental components in computer science, including arrays, linked lists, stacks, and queues, used for organizing and managing data in various applications.",
+      "price": 35000,
       "credit": 5
     },
     {
-      "img": "https://example.com/img2.jpg",
-      "name": "Product 2",
-      "description": "Aenean euismod tincidunt elit, sed tincidunt mi facilisis ac.",
-      "price": 29.99,
-      "credit": 4.5
-    },
-    {
-      "img": "https://example.com/img3.jpg",
-      "name": "Product 3",
-      "description": "Vestibulum vestibulum ligula ut libero laoreet, quis malesuada justo fringilla.",
-      "price": 39.99,
-      "credit": 4
-    },
-    {
-      "img": "https://example.com/img4.jpg",
-      "name": "Product 4",
-      "description": "Pellentesque quis purus vel augue dignissim euismod ut at ante.",
-      "price": 49.99,
-      "credit": 4.5
-    },
-    {
-      "img": "https://example.com/img5.jpg",
-      "name": "Product 5",
-      "description": "Sed eget nisl consectetur, hendrerit risus eu, efficitur dui.",
-      "price": 59.99,
-      "credit": 3.5
-    },
-    {
-      "img": "https://example.com/img6.jpg",
-      "name": "Product 6",
-      "description": "Vivamus a orci vel dui laoreet efficitur in id sapien.",
-      "price": 69.99,
+      "id": 5,
+      "cover": "https://i.ibb.co/zNPJ2r1/Rectangle-2.png",
+      "title": "Introduction to OOP Python",
+      "description": "Object-Oriented Programming (OOP) in Python is a programming paradigm emphasizing the creation of reusable and structured code using classes, objects, and inheritance for efficient development.",
+      "price": 19000,
       "credit": 5
     },
     {
-      "img": "https://example.com/img7.jpg",
-      "name": "Product 7",
-      "description": "Nunc vitae quam in odio tristique scelerisque vel sit amet elit.",
-      "price": 79.99,
-      "credit": 4
+      "id": 6,
+      "cover": "https://i.ibb.co/JybvBk8/Rectangle-2-5.png",
+      "title": "Software Engineering",
+      "description": "Software engineering is the systematic process of designing, developing, testing, and maintaining software, focusing on quality, reliability, and efficient project management for successful applications.",
+      "price": 23000,
+      "credit": 2
     },
     {
-      "img": "https://example.com/img8.jpg",
-      "name": "Product 8",
-      "description": "Fusce id nulla quis est sollicitudin volutpat eu in sapien.",
-      "price": 89.99,
-      "credit": 4.5
+      "id": 7,
+      "cover": "https://i.ibb.co/WskDkd2/Rectangle-3-1.png",
+      "title": "AWS, Cloud Computing",
+      "description": "AWS (Amazon Web Services) is a leading cloud computing platform that provides on-demand computing resources and services, enabling scalable and cost-effective solutions for businesses and developers.",
+      "price": 35000,
+      "credit": 5
     },
     {
-      "img": "https://example.com/img9.jpg",
-      "name": "Product 9",
-      "description": "Nullam in felis eu justo lacinia hendrerit a sit amet nunc.",
-      "price": 99.99,
-      "credit": 3
+      "id": 8,
+      "cover": "https://i.ibb.co/k46sVPb/Rectangle-2-1.png",
+      "title": "Database (MySQL)",
+      "description": "MySQL is a popular open-source relational database management system (RDBMS) used to store, manage, and retrieve structured data efficiently for various applications.",
+      "price": 19000,
+      "credit": 5
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/tBSyDQD/Rectangle-2-6.png",
+      "title": "Problem-Solving Part",
+      "description": "Problem-solving is a cognitive process of analyzing, evaluating, and finding solutions to challenges or questions, often involving logical reasoning and critical thinking skills.",
+      "price": 23000,
+      "credit": 2
     }
   ]
-  
